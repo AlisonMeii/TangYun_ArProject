@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="BBD" size="0.060000 0.060000" />
+    <ImageTarget name="wheel" size="0.060000 0.060000" />
+    <ImageTarget name="huolu" size="0.060000 0.060000" />
+    <ImageTarget name="SugarStore" size="0.060000 0.060000" />
+  </Tracking>
+</QCARConfig>
