@@ -1,6 +1,6 @@
 # Abstract
 &emsp;&emsp;Our group has developed an AR application called "Sugar Rhythm", which focuses on the traditional Chinese art of sugar painting and is developed with Leap motion and Unity.This app integrates popularisation, observation and experience, and shows users the profoundness and fun of the traditional art of sugar painting from various angles, so as to promote the Chinese traditional art.
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/title.png?raw=true"/></div>  
 
 # 1.Design Ideas
 &emsp;&emsp;We chose sugar painting as the theme, through the data collection and discussion, we will be divided into three parts of the application, say, view, drawing, from science to observation to experience layer by layer, to bring users a better emotional padding and incremental effect, through the AR recognition display, leap motion gesture recognition and other technological means to convey the sugar painting not only has three good "good-looking, tasty, and fun," but also has a long history, contains a precious cultural imprint of the wisdom of the Chinese folk.
@@ -13,22 +13,22 @@ The innovations are as follows：
 ## 1.2 Overall Process Display
 ## 1.3 UI Design
 &emsp;&emsp;We designed the whole UI in Figma, 14 pages in total (12 pages of design, 1 page will be reused three times). During the design process, we used traditional Chinese colours to match the orange colour of the sugar paintings and designed our own Chinese graphic styles such as the Chinese Zodiac pattern, as well as a logo design for the theme of the project, and a slogan design.
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/UICOLOR.png?raw=true"/></div>  
 <p align="center">(Choice of colour scheme and scrolling Zodiac graphic design)</p>
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/ui.png?raw=true"/></div>  
 <p align="center">(overall UI design)</p>
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/lOGO.png?raw=true"/></div>  
 <p align="center">(Logo icon and text design)</p>
 
 ## 1.4 Physical card production
 &emsp;&emsp;We completed the registration of the database in the vuforia official website and uploaded the images that need to be scanned and recognised in preparation for the implementation of the scanned image display model
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/kapian.png?raw=true"/></div>  
 
 ## 1.5 Blender modelling
 &emsp;&emsp;In this design, we made three models, including the sugar shop model, and two different shapes of sugar painting models, which are flat sugar painting and three-dimensional sugar painting.
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/MODEL_TANGPU.png?raw=true"/></div>  
 &emsp;&emsp;The flat sugar painting model was chosen in the shape of ice dun-dun, which is the mascot of the Beijing Winter Olympics, and the three-dimensional sugar painting is a bouquet of roses, which jumps out of the common theme of the twelve Chinese zodiac signs, in the hope of bringing users an interesting and interesting AR viewing experience.
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/Model_tanghua.png?raw=true"/></div>  
 
 # 2.Functional realisation
 The specific functions are implemented as follows：
@@ -40,7 +40,7 @@ The specific functions are implemented as follows：
   ④ Hand-controlled Sugar Painting with Leap Motion:  
 This section mainly uses gestures to simulate interactive effects and jump between drawing operations, for example, "enter the drawing view, i.e. top view (clench your fist)", "pinch the spoon, move only without drawing (thumb and index finger extended)", "start drawing the sugar painting, move your hand to draw the movement of your hand (five fingers open)", "clear the trajectory of the last drawing (index finger, middle finger and ring finger open at the same time)". "Starting to draw the sugar painting, moving the hand i.e. drawing the movement of the hand (five fingers spread out)", "Clear trajectory of the last stroke (index middle finger and ring finger spread out at the same time)", "Returning the spoon to the initial position (clenched fist )", "Return to the overall view of the sugar shop, i.e. the main view, representing the completion of the drawing (index and middle fingers open at the same time)".
 The basic control chart for the gesture is shown below:
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/shoushi.png?raw=true"/></div>  
 
 - Realisation of the overall sugar painting culture presentation：  
   ① Recognise images to play the introductory video  
@@ -48,7 +48,8 @@ The basic control chart for the gesture is shown below:
   ③ Sugar painting history mind map display  
 
 # 3.Presentation of final results
-<div align=center><img src=""/></div>  
-<div align=center><img src=""/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/shiji.png?raw=true"/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/shiji1.png?raw=true"/></div>  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/shiji2.png?raw=true"/></div>  
   
   
