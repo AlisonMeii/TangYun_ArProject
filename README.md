@@ -1,5 +1,5 @@
 # Abstract
-&emsp;&emsp;Our group has developed an AR application called "Sugar Rhythm", which focuses on the traditional Chinese art of sugar painting and is developed with Leap motion and Unity.This app integrates popularisation, observation and experience, and shows users the profoundness and fun of the traditional art of sugar painting from various angles, so as to promote the Chinese traditional art.
+&emsp;&emsp;Our group has developed an **AR application** called "Sugar Rhythm", which focuses on the **traditional Chinese art** of **sugar painting** and is developed with Leap motion and Unity.This app integrates popularisation, observation and experience, and shows users the profoundness and fun of the traditional art of sugar painting from various angles, so as to promote the Chinese traditional art.
 <div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/title.png?raw=true"/></div>  
 
 # 1.Design Ideas
