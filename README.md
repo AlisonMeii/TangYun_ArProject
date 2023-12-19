@@ -11,6 +11,9 @@ The innovations are as follows：
 - **UI creativity**, purely original UI design, set up original logos, labels, slogans, patterns, etc., unified style and colours, systematic and complete, and strive to create a UI design that is closer to the sugar paintings themselves and also has traditional Chinese cultural colours;  
 - **Technical creativity**, the use of AR technology combined with leap motion gesture recognition to complete the functional module of interactive sugar painting, let the application "live", simulation of sugar painting stall scene, from the carousel to the sugar and then to the drawing, there are random and challenging, playability is high, interesting, interactive experience is good.
 ## 1.2 Overall Process Display
+The overall usage process is as follows：  
+<div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/mindmap.png?raw=true"/></div>  
+
 ## 1.3 UI Design
 &emsp;&emsp;We designed the whole UI in Figma, 14 pages in total (12 pages of design, 1 page will be reused three times). During the design process, we used traditional Chinese colours to match the orange colour of the sugar paintings and designed our own Chinese graphic styles such as the Chinese Zodiac pattern, as well as a logo design for the theme of the project, and a slogan design.
 <div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/UICOLOR.png?raw=true"/></div>  
@@ -37,8 +40,9 @@ The specific functions are implemented as follows：
   ① Recognising the homemade card through AR, models of a sugar shop, a turntable, a sugar stove and a spoon appear (all of which are necessary for making sugar paintings).  
   ② The progress bar controls the progress of the furnace sugar  
   ③ Using a carousel to obtain random patterns to assist in sugar painting  
-  ④ Hand-controlled Sugar Painting with Leap Motion:  
-This section mainly uses gestures to simulate interactive effects and jump between drawing operations, for example, "enter the drawing view, i.e. top view (clench your fist)", "pinch the spoon, move only without drawing (thumb and index finger extended)", "start drawing the sugar painting, move your hand to draw the movement of your hand (five fingers open)", "clear the trajectory of the last drawing (index finger, middle finger and ring finger open at the same time)". "Starting to draw the sugar painting, moving the hand i.e. drawing the movement of the hand (five fingers spread out)", "Clear trajectory of the last stroke (index middle finger and ring finger spread out at the same time)", "Returning the spoon to the initial position (clenched fist )", "Return to the overall view of the sugar shop, i.e. the main view, representing the completion of the drawing (index and middle fingers open at the same time)".
+  ④ Hand-controlled Sugar Painting with Leap Motion,The specific gestures are as follows:
+  
+&emsp;&emsp;This section mainly uses gestures to simulate interactive effects and jump between drawing operations, for example, "enter the drawing view, i.e. top view (clench your fist)", "pinch the spoon, move only without drawing (thumb and index finger extended)", "start drawing the sugar painting, move your hand to draw the movement of your hand (five fingers open)", "clear the trajectory of the last drawing (index finger, middle finger and ring finger open at the same time)". "Starting to draw the sugar painting, moving the hand i.e. drawing the movement of the hand (five fingers spread out)", "Clear trajectory of the last stroke (index middle finger and ring finger spread out at the same time)", "Returning the spoon to the initial position (clenched fist )", "Return to the overall view of the sugar shop, i.e. the main view, representing the completion of the drawing (index and middle fingers open at the same time)".
 The basic control chart for the gesture is shown below:
 <div align=center><img src="https://github.com/AlisonMeii/TangYun_ArProject/blob/main/Image/shoushi.png?raw=true"/></div>  
 
